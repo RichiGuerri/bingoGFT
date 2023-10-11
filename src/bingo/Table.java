@@ -32,7 +32,7 @@ public class Table {
                 }
             }
         }
-        if(victory) {
+        if (victory) {
             System.out.println("Victory by player n." + winner.getIndex());
         }
     }
